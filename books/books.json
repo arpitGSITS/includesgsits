@@ -1,0 +1,70 @@
+{
+    "subject": {
+        "Operating Systems":[
+            {
+                "bookName":"Operating Systems",
+                "author": "William Stallings",
+                "publisher": "Pearson",
+                "edition": "Eighth Edition",
+                "downloadLink":"http://dinus.ac.id/repository/docs/ajar/Operating_System.pdf"
+            },
+            {
+                "bookName":"Operating Systems Concepts",
+                "author": "Galvin and Gagne",
+                "publisher": "Pearson",
+                "edition": "Third Edition",
+                "downloadLink":"http://www.uobabylon.edu.iq/download/M.S%202013-2014/Operating_System_Concepts,_8th_Edition%5BA4%5D.pdf"
+            },
+            {
+                "bookName":"Mordern Operating Systems",
+                "author": "Tanenbaum",
+                "publisher": "Willey Publication",
+                "edition": "Eighth Edition",
+                "downloadLink":"http://stst.elia.pub.ro/news/SO/Modern%20Operating%20System%20-%20Tanenbaum.pdf"
+            }
+        ],
+        "Data Mining and Warehousing":[
+            {
+                "bookName":"Data Mining: Concepts and Techniques",
+                "author": "Jiawei Han and Micheline Kamber",
+                "publisher": "Morgan Kaufmann",
+                "edition": "Third Edition",
+                "downloadLink":"http://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf"
+            },
+            {
+                "bookName":"Data Mining the Textbook",
+                "author": "Charu Aggrawal",
+                "publisher": "Springer",
+                "edition": "",
+                "downloadLink":"https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf"
+            }
+        ],
+        "A.D.A Design and Analysis Of Algorithms":[
+            {
+                "bookName":"Introduction to Algorithms",
+                "author": "Thomas Cormen, Leiserson, Rivest, Stein",
+                "publisher": "Springer",
+                "edition": "Thrid Edition",
+                "downloadLink":"http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf"
+            },
+            {
+                "bookName":"The Algorithm Design Manual",
+                "author": "Steven S. Skiena",
+                "publisher": "Springer",
+                "edition": "Second Edition",
+                "downloadLink":"http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf"
+            }
+        ],
+        "Digital Electronics":[],
+        "O.O.P. Object Oriented Programming":[],
+        "Discrete Mathematical Structures":[],
+        "Artificial Intelligence":[],
+        "Web Technology":[],
+        "Data Structures":[],
+        "Compiler Design":[],
+        "Advanced Computer Architecture":[],
+        "Distributed Computing":[],
+        "O.O.A.D. Object Oriented Analysis and Design":[],
+        "Software Engineering":[]
+    }
+ }
